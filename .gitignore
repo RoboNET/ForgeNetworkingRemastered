@@ -340,3 +340,5 @@ ASALocalRun/
 .localhistory/
 
 [dD]ocs/mkdocs/[sS]ite/
+
+!SteamworksDOTNet/Steamworks.NET.dll
